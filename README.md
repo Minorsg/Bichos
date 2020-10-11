@@ -1,2 +1,1 @@
-# bichos
-Bichos geniales
+# Bichos
